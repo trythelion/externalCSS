@@ -1,0 +1,11 @@
+* [
+  mmargin: 0;
+  padding: 0;
+}
+
+div {
+  padding 10px;
+}
+.maxHeight{
+  height: 100%;
+}
