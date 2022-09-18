@@ -6,3 +6,6 @@
 div {
   padding 10px;
 }
+.maxHeight{
+  height: 100%;
+}
