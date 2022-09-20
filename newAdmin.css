@@ -9,3 +9,6 @@ div {
 .maxHeight{
   height: 100%;
 }
+.ml-3 {
+  margin-left: 3px;
+}
